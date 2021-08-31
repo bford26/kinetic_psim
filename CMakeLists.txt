@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.18)
+
+# PROJECT DETAILS
+
+project(KPsim)
+
+set(CMAKE_CXX_STANDARD 17)
